@@ -1,0 +1,36 @@
+{
+  "public": [
+    {
+      "revision": "P1",
+      "fields": [
+        "id",
+        "species",
+        "count",
+        "grid"
+      ],
+      "scope": "public"
+    },
+    {
+      "revision": "P2",
+      "fields": [
+        "id",
+        "species",
+        "count"
+      ],
+      "scope": "public"
+    }
+  ],
+  "research": [
+    {
+      "revision": "R1",
+      "fields": [
+        "id",
+        "species",
+        "count",
+        "lon",
+        "lat"
+      ],
+      "scope": "research"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "public",
+  "species": "public",
+  "count": "public",
+  "lon": "precise",
+  "lat": "precise",
+  "grid": "coarse",
+  "note": "restricted"
+}

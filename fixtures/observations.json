@@ -1,0 +1,47 @@
+[
+  {
+    "id": "O0",
+    "species": "合成候鸟",
+    "count": 1,
+    "lon": 10.0,
+    "lat": 20.0,
+    "grid": "SYNTH-01",
+    "note": "虚构受限备注"
+  },
+  {
+    "id": "O1",
+    "species": "合成候鸟",
+    "count": 2,
+    "lon": 10.01,
+    "lat": 20.01,
+    "grid": "SYNTH-01",
+    "note": "虚构受限备注"
+  },
+  {
+    "id": "O2",
+    "species": "合成候鸟",
+    "count": 3,
+    "lon": 10.02,
+    "lat": 20.02,
+    "grid": "SYNTH-01",
+    "note": "虚构受限备注"
+  },
+  {
+    "id": "O3",
+    "species": "合成候鸟",
+    "count": 4,
+    "lon": 10.03,
+    "lat": 20.03,
+    "grid": "SYNTH-01",
+    "note": "虚构受限备注"
+  },
+  {
+    "id": "O4",
+    "species": "合成候鸟",
+    "count": 5,
+    "lon": 10.04,
+    "lat": 20.04,
+    "grid": "SYNTH-01",
+    "note": "虚构受限备注"
+  }
+]
